@@ -1,0 +1,4 @@
+interface:
+  display_name: "偏好预载"
+  short_description: "在每次会话开始时读取并应用长期偏好模型以指导回答与操作"
+  default_prompt: "Use $preference-bootstrap-zh to load and apply my preference model for this session."
