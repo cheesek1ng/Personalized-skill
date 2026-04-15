@@ -1,4 +1,0 @@
-interface:
-  display_name: "偏好记忆"
-  short_description: "根据纠正和新反馈持续更新用户长期偏好模型并清理过时偏好"
-  default_prompt: "Use $preference-memory-zh to update my preference model from this conversation."
