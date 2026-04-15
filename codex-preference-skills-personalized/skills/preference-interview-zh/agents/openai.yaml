@@ -1,0 +1,4 @@
+interface:
+  display_name: "偏好访谈"
+  short_description: "通过多轮深访建立可执行的用户长期偏好模型并输出结构化画像"
+  default_prompt: "Use $preference-interview-zh to interview me and build my preference model."
